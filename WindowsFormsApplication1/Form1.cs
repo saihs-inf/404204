@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "歡迎來到莫閣~";
+            label2.Text = textBox1.Text + "，歡迎來到莫閣!";
         }
     }
 }
