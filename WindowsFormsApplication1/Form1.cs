@@ -27,5 +27,10 @@ namespace WindowsFormsApplication1
             label2.Text = "你好0w0";
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label2.Text = "<3";
+        }
     }
 }
